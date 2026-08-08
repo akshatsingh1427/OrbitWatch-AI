@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Machine%20Learning-Gradient%20Boosting-orange?style=for-the-badge">
-<img src="https://img.shields.io/badge/Status-Working%20Prototype-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge">
 
 > OrbitWatch AI is a full-stack satellite monitoring and machine-learning platform designed to analyze orbital data, identify potentially high-risk satellites, and provide an interactive 3D mission-control interface.
 
@@ -59,7 +59,7 @@ The platform combines 3D satellite visualization, orbital mechanics data, CelesT
 
 | | |
 |---|---|
-| **Status** | Working Prototype / Completed Core System |
+| **Status** | Completed |
 | **Deployment** | Local deployment currently; cloud deployment planned |
 | **ML Model** | Gradient Boosting Classifier |
 | **Training Records** | 16,099 satellites |
