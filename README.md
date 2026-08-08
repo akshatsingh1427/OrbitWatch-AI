@@ -97,7 +97,6 @@ OrbitWatch AI demonstrates an end-to-end ML system for satellite collision risk 
 - [Machine Learning Pipeline](#-machine-learning-pipeline)
 - [API Reference](#-api-reference)
 - [Frontend Architecture](#-frontend-architecture)
-- [Submission Details](#-submission-details)
 - [Author](#-author)
 
 ---
