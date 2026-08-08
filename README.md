@@ -488,48 +488,16 @@ Risk Components (RiskHero, RiskTable, RiskCharts, AlertCenter)
 
 ---
 
-## 📝 Submission Details
-
-**Hackathon:** ML Bubble 2026 – Machine Learning Awareness & Skill Building Challenge  
-**Organizer:** Army Institute of Technology (AIT), Pune  
-**Track:** SE – Design & Solve / TE-BE – Design & Solve (Advanced)  
-**Domain:** Defense & National Security  
-**Team Size:** 1-4 Members  
-
-### Submission Checklist
-
-- [x] Project Presentation (PPT/PDF) — `submission/project_presentation.pptx`
-- [x] Source Code — GitHub repository (this repo)
-- [x] Dataset Details — `submission/dataset_details.md`
-- [x] Model Performance Metrics — `submission/model_metrics.md`
-- [x] Project Documentation — This README
-- [x] GitHub Repository Link — [https://github.com/yourusername/OrbitWatch-AI](https://github.com/yourusername/OrbitWatch-AI)
-
-### Problem Statement
-
-**Satellite Collision Risk Assessment using Machine Learning**
-
-With the rapid increase in LEO satellite deployments (Starlink, OneWeb, etc.), collision risk assessment has become a critical challenge for space operations. This project demonstrates an ML-based solution that:
-
-1. Ingests real TLE orbital data from CelesTrak
-2. Engineers features from orbital elements
-3. Trains a classification model to predict collision risk levels
-4. Serves predictions via a REST API to a mission control dashboard
-
-This directly addresses the **Defense & National Security** domain by providing actionable space domain awareness capabilities.
-
----
-
 ## 👨‍💻 Author
 
 <div align="center">
 
-**Your Name**
+**Akshat Singh**
 
-<a href="https://github.com/yourusername">
+<a href="https://github.com/akshatsingh1427">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
 </a>
-<a href="https://www.linkedin.com/in/yourprofile/">
+<a href="https://www.linkedin.com/in/akshat-singh-ba248b394/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
