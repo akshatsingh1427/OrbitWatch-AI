@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="OrbitWatch AI Banner" width="100%">
-
 # 🛰️ OrbitWatch AI
 
 ### AI-Powered Satellite Collision Risk Assessment & Mission Control
