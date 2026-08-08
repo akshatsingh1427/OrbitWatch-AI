@@ -228,7 +228,7 @@ Built for the **ML Bubble 2026** hackathon under the **Defense & National Securi
        ┌────────────┐ ┌─────────┐ ┌──────────┐
        ┌────────────┐ ┌─────────┐ ┌──────────┐
        │  SQLite    │ │ /health │ │ /metrics │
-       │  Predictions│ │  check  │ │  export  │
+       │ Predictions│ │  check  │ │  export  │
        └────────────┘ └─────────┘ └────┬─────┘
                                         │
                                         ▼
