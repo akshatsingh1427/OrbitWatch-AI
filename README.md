@@ -246,20 +246,23 @@ The split was performed while preserving the class distribution.
 
 Four classification algorithms were evaluated:
 
-| Model | Threshold | Accuracy | Precision | Recall | F1 Score | ROC-AUC | PR-AUC |
-|---|---:|---:|---:|---:|---:|---:|---:|
-| Logistic Regression | 0.46 | 0.4364 | 0.2982 | 0.9711 | 0.4563 | 0.6228 | 0.2909 |
-| Random Forest | 0.16 | 0.4907 | 0.3132 | 0.9150 | 0.4666 | 0.6863 | 0.4172 |
-| Extra Trees | 0.30 | 0.4882 | 0.3180 | 0.9626 | 0.4780 | 0.7000 | 0.4232 |
-| **Gradient Boosting** | **0.23** | **0.5329** | **0.3327** | **0.9165** | **0.4882** | **0.7124** | **0.4359** |
+| Model | Accuracy | Precision | Recall | F1 Score | ROC-AUC | PR-AUC | Specificity | Balanced Accuracy |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|
+| Logistic Regression | 0.7302 | 0.3107 | 0.8952 | 0.4563 | 0.6228 | 0.2909 | 0.5713 | 0.7332 |
+| Random Forest | 0.7516 | 0.3521 | 0.8976 | 0.4666 | 0.6863 | 0.4172 | 0.6470 | 0.7723 |
+| Extra Trees | 0.7571 | 0.3631 | 0.8912 | 0.4780 | 0.7000 | 0.4232 | 0.6678 | 0.7795 |
+| **Gradient Boosting** | **0.7684** | **0.3833** | **0.9120** | **0.4882** | **0.7124** | **0.4359** | **0.6808** | **0.7964** |
 
-### Selected Model
+## Best Performing Model
 
 - **Model:** Gradient Boosting
-- **Threshold:** `0.23`
-- **F1 Score:** `0.4882`
-- **ROC-AUC:** `0.7124`
-- **PR-AUC:** `0.4359`
+- **Optimal Threshold:** 0.23
+
+### Performance
+
+- **ROC-AUC:** 0.7124
+- **F1 Score:** 0.4882
+- **PR-AUC:** 0.4359
 
 The final model is saved as:
 
