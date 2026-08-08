@@ -1,4 +1,6 @@
 <div align="center">
+   
+<img src="assets/banner.png" alt="OrbitWatch AI" width="100%">
 
 # 🛰️ OrbitWatch AI
 
